@@ -5,7 +5,8 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
+Wajdi Tahmoush
+Algorithm Analysis
+understand performance and colmplexity of algorithm and analyse to acheive most optimality. 
+Performance: How much time/memory/disk/etc. is used when a program is run. An Optimal code should consume the minimum possible.
+Complexity: How do the resource requirements of a program or algorithm scale, i.e. what happens as the size of the problem being solved by the code gets larger. Again an optimal agorithm should minimize resources requirments.
